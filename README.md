@@ -1,7 +1,7 @@
 # Tea-production-exports-and-consumption-in-Kenya-Data-Analysis
 
 
-## Contributors
+## Team
 1. [Jenipher Mawia](https://github.com/Jenn-mawia)
 2. [Winfred Karimi](https://github.com/Karimi-Gichunge)
 3. [Joan Yego](https://github.com/JoanYego)
@@ -47,8 +47,6 @@ Pull requests are welcome for contribution. For major changes, please open an is
 
 
 If you find a bug (or undesired results) do not hesitate to reach out to us. 
-
-## Team
 
 
 
