@@ -2,16 +2,16 @@
 
 
 ## Contributors
-1. Jenipher Mawia
-2. Winfred Karimi
-3. Joan Yego
-4. Joy Muli
-5. Griffin Kaiga
-6. Diang'a Felix
-7. Lillian Kibathi 
-8. Annette Ngao
-9. Kanyatte Macharia
-10. Amina Mohammed
+1. [Jenipher Mawia](https://github.com/Jenn-mawia)
+2. [Winfred Karimi](https://github.com/Karimi-Gichunge)
+3. [Joan Yego](https://github.com/JoanYego)
+4. [Joy Muli](https://github.com/joymuli10)
+5. [Griffin Kaiga](https://github.com/Griff-Kaiga)
+6. [Diang'a Felix](https://github.com/mDianga)
+7. [Lillian Kibathi](https://github.com/Nyawira12)
+8. [Annette Ngao](https://github.com/annettembeyu)
+9. [Kanyatte Macharia](https://github.com/Kanyatte)
+10. [Amina Mohammed]
 
 ## Description
 This is a brief analysis that was done on Kenya's agricultural sector with a major focus on the tea industry. 
@@ -48,13 +48,16 @@ Pull requests are welcome for contribution. For major changes, please open an is
 
 If you find a bug (or undesired results) do not hesitate to reach out to us. 
 
+## Team
+
+
+
 ## License
 [MIT](https://github.com/dspt5-Team2-moringaschool/Tea-production-exports-and-consumption-in-Kenya-Data-Analysis/blob/master/LICENSE)
 
 
 Copyright (c) [2020] 
 
-[Jenipher Mawia](https://github.com/Jenn-mawia), [Winfred Karimi](https://github.com/Karimi-Gichunge), [Joan Yego](https://github.com/JoanYego), [Joy Muli](https://github.com/joymuli10), [Griffin Kaiga](https://github.com/Griff-Kaiga), [Diang'a Felix](https://github.com/mDianga), [Lillian Kibathi](https://github.com/Nyawira12), [Annette Ngao](https://github.com/annettembeyu), [Kanyatte Macharia](https://github.com/Kanyatte)[Amina Mohammed]
 
 
 
