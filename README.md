@@ -11,7 +11,7 @@
 7. [Lillian Kibathi](https://github.com/Nyawira12)
 8. [Annette Ngao](https://github.com/annettembeyu)
 9. [Kanyatte Macharia](https://github.com/Kanyatte)
-10. [Amina Mohammed]
+10. Amina Mohammed
 
 ## Description
 This is a brief analysis that was done on Kenya's agricultural sector with a major focus on the tea industry. 
