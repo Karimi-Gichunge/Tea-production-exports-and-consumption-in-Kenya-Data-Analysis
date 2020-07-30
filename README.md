@@ -32,6 +32,11 @@ The main aim of this project was to manipulate and analyse data to make a study 
 ## Data Anaysis
 Analysis was done on the consumption, exports and production of tea over the years 2012 - 2015. 
 
+We verified that total consumption and total exports do not necessarily equal to total production. One of the reasons is that tea produced in January could be consumed or exported months later. In addition, some of the tea growing areas have poor infrastructure like inaccessible roads which could make transporting and preserving viability challenging.
+
+
+The recommendations are that this analysis should be combined with similar trend analysis such as weather patterns, farming trends and economic conditions related to the agricultural industries in the same horizon for further analysis.
+
 To be continued ....
 
 ## Complete Setup / Installation Requirements
