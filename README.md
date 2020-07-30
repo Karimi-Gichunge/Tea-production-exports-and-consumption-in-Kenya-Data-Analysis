@@ -37,7 +37,6 @@ We verified that total consumption and total exports do not necessarily equal to
 
 The recommendations are that this analysis should be combined with similar trend analysis such as weather patterns, farming trends and economic conditions related to the agricultural industries in the same horizon for further analysis.
 
-To be continued ....
 
 ## Complete Setup / Installation Requirements
 To open and view the python analysis on the notebook, you will need Jupyter Notebook or Google Colaboratory. Do have a look at it.😊
