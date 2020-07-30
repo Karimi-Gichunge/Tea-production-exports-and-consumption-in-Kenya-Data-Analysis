@@ -49,12 +49,12 @@ Pull requests are welcome for contribution. For major changes, please open an is
 If you find a bug (or undesired results) do not hesitate to reach out to us. 
 
 ## License
-[MIT] (https://github.com/dspt5-Team2-moringaschool/Tea-production-exports-and-consumption-in-Kenya-Data-Analysis/blob/master/LICENSE)
+[MIT](https://github.com/dspt5-Team2-moringaschool/Tea-production-exports-and-consumption-in-Kenya-Data-Analysis/blob/master/LICENSE)
 
 
 Copyright (c) [2020] 
 
-[Jenipher Mawia] (https://github.com/Jenn-mawia), [Winfred Karimi] (https://github.com/Karimi-Gichunge), [Joan Yego](https://github.com/JoanYego), [Joy Muli] (https://github.com/joymuli10), [Griffin Kaiga] (https://github.com/Griff-Kaiga), [Diang'a Felix](https://github.com/mDianga), [Lillian Kibathi] (https://github.com/Nyawira12), [Annette Ngao] (https://github.com/annettembeyu), [Kanyatte Macharia] (https://github.com/Kanyatte)[Amina Mohammed]
+[Jenipher Mawia](https://github.com/Jenn-mawia), [Winfred Karimi](https://github.com/Karimi-Gichunge), [Joan Yego](https://github.com/JoanYego), [Joy Muli](https://github.com/joymuli10), [Griffin Kaiga](https://github.com/Griff-Kaiga), [Diang'a Felix](https://github.com/mDianga), [Lillian Kibathi](https://github.com/Nyawira12), [Annette Ngao](https://github.com/annettembeyu), [Kanyatte Macharia](https://github.com/Kanyatte)[Amina Mohammed]
 
 
 
